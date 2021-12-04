@@ -4,10 +4,10 @@
 Sign Up page using HTML and CSS.<br />
 
 ### Web Version
-<img src="imagens/final.png" alt="Web Version"/>
+<img src="images/final.png" alt="Web Version"/>
 
 ### Mobile Version
-<img src="imagens/final-mobile.png" alt="Mobile Version"/>
+<img src="images/final-mobile.png" alt="Mobile Version"/>
 
 ## 🚀 Starting
 
